@@ -2680,6 +2680,9 @@ input[type="number"] {
   }
 }
 @media (max-width: 768px) {
+  .foliox_tm_contact .left ul { 
+    display: block; 
+}
   .foliox_tm_hero .name {
     font-size: 50px;
     margin-bottom: 8px;
