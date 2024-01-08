@@ -2529,6 +2529,12 @@ input[type="number"] {
   }
 }
 @media (max-width: 1040px) {
+  .foliox_tm_contact .left ul {
+    margin: 0px;
+    list-style-type: none;
+    display: block !important;
+    justify-content: space-between;
+}
   .sm-img{
     display: block !important;
   }
